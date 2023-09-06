@@ -3,4 +3,6 @@ Hello Github, This is my first code
 
 These are my changes after git add 
 
-More Changes addeed
+More Changes added
+
+I have created a dev branch 
